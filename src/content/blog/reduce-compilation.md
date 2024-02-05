@@ -4,13 +4,27 @@ pubDatetime: 2020-04-30T19:30:00.737+07:00
 title: Compilation of Reduce function
 slug: compilation-reduce-function
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://raw.githubusercontent.com/ekaone/assets/main/og-images/posts/og-reduce-function.png
 tags:
   - javascript
 description: List of compilation using reduce() function
 ---
 
 List of compilation using reduce() function
+
+## Reduce function for Average
+
+If you would like looking for average, you can try `reduce()`.
+
+```js
+const average = (...args) => {
+  return args.reduce((acc, el) => acc + el, 0) / args.length;
+};
+
+console.log(average(1, 2, 3, 4)); // 2.5
+```
+
+## Reduce function for Object
 
 ```js
 const worlds = [
@@ -54,7 +68,7 @@ console.log(result6);
 // { id: '2', city: 'Tokyo', country: 'Japan', population: 14 }
 ```
 
-And another example of using reduce() function:
+## And another example of using reduce() function for array of numbers:
 
 ```js
 const numbers = [1, 2, 3, 4];
