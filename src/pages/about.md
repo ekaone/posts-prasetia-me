@@ -15,16 +15,15 @@ Living at the intersection of creativity and technology, I'm on a perpetual ques
 
 In my web development journey, I leverage a versatile tech stack that enables me to bring ideas to life seamlessly. Primarily, I harness the power of JavaScript, employing its dynamic capabilities for frontend and backend development alike.
 
-## Features
-
 Here are certain Technology.
 
+- [Bun](https://bun.sh/)
+- [Hono](https://hono.dev/)
+- [Lnagchain](https://langchain.com/)
+- [OpenAI](https://openai.com/)
+- [Vertex AI](https://cloud.google.com/vertex-ai)
+- [Anthropic](https://www.anthropic.com/)
+- [Supabase](https://supabase.com/)
 - [ReactJS](https://react.dev/)
-- NodeJS
-- Bun
-- Hono
-- OpenAI
-- Vertex AI
-- Anthropic
-- API
-- Supabase
+- [NextJS](https://nextjs.org/)
+- [NodeJS](https://nodejs.org/en)

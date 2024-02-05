@@ -1,6 +1,7 @@
 ---
 author: Eka Prasetia
-pubDatetime: 2022-12-02T19:00:00.500+07:00
+pubDatetime: 2023-12-10T19:00:00.500+07:00
+modDatetime: 2024-02-05T13:00:47.500+07:00
 title: JavaScript Awesome Package
 slug: javascript-awesome-package
 featured: false
@@ -9,6 +10,8 @@ tags:
   - javascript
 description: List collection of awesome JavaScript package.
 ---
+
+Javascript Awesome Packages List, start from 🚦 State Management, 🧪 Testing, 🛠 Utilities, 🌈 Design System, 📈 Chart, 🖥 Server, 🔐 Security, 🗄 ORM and Query Builder
 
 ## Table of contents
 
@@ -182,6 +185,7 @@ description: List collection of awesome JavaScript package.
 
 ## Server
 
+- [`Hono` - Runs on any JavaScript runtime](https://hono.dev/)
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`Koajs` - Koa is a new web framework designed by the team behind Express](https://koajs.com/)
 - [`Meteor` - Meteor is an open source platform for web, mobile, and desktop](https://www.meteor.com/)
@@ -227,6 +231,8 @@ description: List collection of awesome JavaScript package.
 
 ## Command Line Interface
 
+- [`Charm` - Charm is a set of tools that makes adding a backend to your terminal-based applications fun and easy](https://github.com/charmbracelet/charm)
+- [`Prompts` - Lightweight, beautiful and user-friendly interactive prompts](https://github.com/terkelg/prompts)
 - [`Commanderjs` - The complete solution for node.js command-line interfaces](https://github.com/tj/commander.js)
 - [`Oclif` - Create command line tools your users love](https://oclif.io/)
 - [`Hygen` - The scalable code generator that saves you time](http://www.hygen.io/)
