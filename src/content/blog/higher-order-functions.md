@@ -4,7 +4,7 @@ pubDatetime: 2020-10-02T18:00:00.300+07:00
 title: Higher Order Functions
 slug: higher-order-functions
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707202066/prasetia-me/hof.png
 tags:
   - javascript
 description: A function that accepts another function as a parameter, or returns another function.

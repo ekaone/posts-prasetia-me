@@ -4,7 +4,7 @@ pubDatetime: 2023-04-01T18:00:00.700+07:00
 title: How to build Bio Generator with AI
 slug: bio-generator-with-ai
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707202435/prasetia-me/biogenerator.png
 tags:
   - ai
 description: 🤖 AI-Powered to generate your Bios for any Social Media target.

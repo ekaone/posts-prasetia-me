@@ -4,7 +4,7 @@ pubDatetime: 2020-07-05T21:00:00.737+07:00
 title: Simple function of Filter, Index and Every
 slug: simple-function-filter-index-every
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707201295/prasetia-me/arrayfunction.png
 tags:
   - javascript
 description: Example of function of filter, index and every.
