@@ -4,7 +4,7 @@ pubDatetime: 2023-03-10T19:00:00.500+07:00
 title: AI Tools
 slug: ai-tools
 featured: false
-ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707198854/prasetia-me/hyd3mvutcmnuz0pq9fep.png
+ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707198854/prasetia-me/ai-tools.png
 tags:
   - ai
 description: List collection of awesome Artificial Intelligence (AI) tools.
