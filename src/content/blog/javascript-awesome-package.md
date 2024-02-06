@@ -1,7 +1,7 @@
 ---
 author: Eka Prasetia
 pubDatetime: 2023-12-10T19:00:00.500+07:00
-modDatetime: 2024-02-05T13:00:47.500+07:00
+modDatetime: 2023-06-05T13:00:47.500+07:00
 title: JavaScript Awesome Package
 slug: javascript-awesome-package
 featured: false
@@ -11,9 +11,16 @@ tags:
 description: List collection of awesome JavaScript package.
 ---
 
-Javascript Awesome Packages List, start from 🚦 State Management, 🧪 Testing, 🛠 Utilities, 🌈 Design System, 📈 Chart, 🖥 Server, 🔐 Security, 🗄 ORM and Query Builder
+JavaScript Awesome Packages list, AI, State Management, Testing, Utilities, Design System, Chart, Server, Security, ORM and Query Builder
 
 ## Table of contents
+
+## Artificial Intelligence (AI)
+
+- [`OpenAI` - Creating safe AGI that benefits all of humanity](https://openai.com/)
+- [`Anthropic` - Your friendly assistant. Fast, capable, and truly conversational](https://www.anthropic.com/)
+- [`Cohere` - Build conversational apps with RAG](https://cohere.com/)
+- [`VertexAI` - Innovate faster with enterprise-ready generative AI](https://cloud.google.com/vertex-ai)
 
 ## State Management
 
