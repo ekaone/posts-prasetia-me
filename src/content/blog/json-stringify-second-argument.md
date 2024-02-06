@@ -4,7 +4,6 @@ pubDatetime: 2020-07-07T17:15:00.737+07:00
 title: JSON.Stringify on second argument
 slug: json-stringify-second-argument
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - javascript
 description: What is second argument do on JSON.Stringify

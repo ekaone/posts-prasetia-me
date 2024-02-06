@@ -4,7 +4,6 @@ pubDatetime: 2020-05-02T19:00:00.737+07:00
 title: Simple Prototype
 slug: simple-prototype
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - javascript
 description: Simple Prototype in Javascript.

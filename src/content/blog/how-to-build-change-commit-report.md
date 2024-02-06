@@ -4,7 +4,6 @@ pubDatetime: 2023-05-10T13:00:00.700+07:00
 title: How to build change commit report with AI
 slug: change-commit-report-with-ai
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - ai
 description: 🤖 OpenAI - Generates a report from the recent code commit changes and posts it to Slack.

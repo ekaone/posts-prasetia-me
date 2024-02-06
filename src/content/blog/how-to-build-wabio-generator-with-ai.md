@@ -4,7 +4,6 @@ pubDatetime: 2023-06-15T17:00:00.700+07:00
 title: How to build Whatsapp bio generator by OpenAI gpt-3.5-turbo
 slug: wabio-generator-with-ai
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - ai
 description: 🤖 Whatsapp bio generator by OpenAI gpt-3.5-turbo.

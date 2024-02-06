@@ -4,7 +4,6 @@ pubDatetime: 2021-10-15T18:00:00.700+07:00
 title: React Cheatsheet
 slug: react-cheatsheet
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - react
 description: Fibonacci numbers complex Time complexity

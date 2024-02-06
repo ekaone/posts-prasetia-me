@@ -4,7 +4,6 @@ pubDatetime: 2020-04-30T19:30:00.737+07:00
 title: Compilation of Reduce function
 slug: compilation-reduce-function
 featured: false
-ogImage: https://raw.githubusercontent.com/ekaone/assets/main/og-images/posts/og-reduce-function.png
 tags:
   - javascript
 description: List of compilation using reduce() function

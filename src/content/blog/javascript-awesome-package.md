@@ -5,7 +5,6 @@ modDatetime: 2023-06-05T13:00:47.500+07:00
 title: JavaScript Awesome Package
 slug: javascript-awesome-package
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - javascript
 description: List collection of awesome JavaScript package.

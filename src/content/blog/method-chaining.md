@@ -4,7 +4,6 @@ pubDatetime: 2020-12-03T17:00:00.330+07:00
 title: Method Chaining
 slug: method-chaining
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - javascript
 description: Method chains allow a series of functions to operate in succession to reach a final result.
