@@ -4,7 +4,7 @@ pubDatetime: 2020-11-10T20:00:00.330+07:00
 title: Arrow Functions
 slug: arrow-functions
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: https://res.cloudinary.com/ddjsyskef/image/upload/v1707199359/prasetia-me/euv22wynnl10xhrzb6jm.png
 tags:
   - javascript
 description: Arrow functions, also known as fat arrow functions, are a concise way to write functions in JavaScript.
