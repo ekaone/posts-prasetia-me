@@ -10,13 +10,36 @@ tags:
 description: List collection of awesome Artificial Intelligence (AI) tools.
 ---
 
-Find the best AI tools for your project. This list includes the best AI tools for developers, designers, and business owners.
+Find the best AI tools for your project. This list includes the best AI tools for developers, designers, contents, and business owners.
 
 ## Table of contents
 
-## Artificial Intelligence (AI)
+## Platforms
 
-- [`OpenAI` - Creating safe AGI that benefits all of humanity](https://openai.com/)
-- [`Anthropic` - Your friendly assistant. Fast, capable, and truly conversational](https://www.anthropic.com/)
-- [`Cohere` - Build conversational apps with RAG](https://cohere.com/)
-- [`VertexAI` - Innovate faster with enterprise-ready generative AI](https://cloud.google.com/vertex-ai)
+- [OpenAI](https://openai.com/) - Creating safe AGI that benefits all of humanity
+- [Anthropic](https://www.anthropic.com/) - Your friendly assistant. Fast, capable, and truly conversational
+- [Cohere](https://cohere.com/) - Build conversational apps with RAG
+- [VertexAI](https://cloud.google.com/vertex-ai) - Innovate faster with enterprise-ready generative AI
+- [Replicate](https://replicate.com/) - Run and fine-tune open-source models
+- [Bard](https://bard.google.com/) - AI from Google
+- [RunwayML](https://runwayml.com/) - Create, experiment, and explore with machine learning
+
+## Video
+
+- [Fliki](https://fliki.ai/) - Video creation made 10x simpler & faster with AI
+- [Phenaki](https://fliki.ai/) - A model for generating videos from text
+
+## Image
+
+- [Stable Diffusion](https://stablediffusionweb.com/) - Create AI Art with our free Stable Diffusion AI Image generator.
+- [StockImage](https://stockimg.ai/) - Create image with AI.
+
+## Writing
+
+- [TypeAI](https://type.ai/) - AI document editor.
+- [CopyAI](https://copy.ai/) - AI tools for writing.
+
+## Audio
+
+- [OpenAI Music](https://openai.com/research/musenet) - Create music with AI.
+- [Descript](https://www.descript.com/) - Text to Audio.

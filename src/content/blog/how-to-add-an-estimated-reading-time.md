@@ -299,5 +299,3 @@ file: PostDetails.tsx
 ## Conclusion
 
 By following the provided steps and tweaks, you can now incorporate this useful feature into your content. I hope this post helps you adding `readingTime` in your blog. AstroPaper might include reading time by default in future releases. 🤷🏻‍♂️
-
-Kyay Zuu for Reading 🙏🏻

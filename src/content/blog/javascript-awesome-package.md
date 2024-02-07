@@ -1,7 +1,7 @@
 ---
 author: Eka Prasetia
 pubDatetime: 2023-12-10T19:00:00.500+07:00
-modDatetime: 2023-06-05T13:00:47.500+07:00
+modDatetime: 2023-01-05T13:00:47.500+07:00
 title: JavaScript Awesome Package
 slug: javascript-awesome-package
 featured: false
