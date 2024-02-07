@@ -51,3 +51,5 @@ const drinkTotal = cart
 
 console.log(`Total Drink Cost $${drinkTotal}`); // Total Drink $14.13
 ```
+
+Thank you for reading this article, I hope you find it useful. Happy coding! 🔥

@@ -35,3 +35,5 @@ Tokenizers are important for generative AI because they enable the model to lear
 - Data representation: Tokenizers determine how the input and output data are represented and encoded, which can influence the information and structure that the model can capture and manipulate.
 - Data processing: Tokenizers determine how the input and output data are processed and decoded, which can influence the speed and efficiency of the model's computation and generation.
 - Data quality: Tokenizers determine how the input and output data are split and mapped, which can influence the accuracy and diversity of the model's output.
+
+Thank you for reading this article, I hope you find it useful. Have fun with generative AI! 🤖

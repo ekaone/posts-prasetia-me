@@ -11,7 +11,9 @@ description: 🤖 Whatsapp bio generator by OpenAI gpt-3.5-turbo.
 
 ![AstroPaper v4](https://raw.githubusercontent.com/ekaone/assets/main/og-images/posts/bios-generator.png)
 
-Side project a Whatsapp bio generator by OpenAI gpt-3.5-turbo. The code is written in Typescript and uses OpenAI's GPT-3 to generate the bio.
+Side project a Whatsapp bio generator by OpenAI gpt-3.5-turbo. The code is written in on top of NextJS framework and uses OpenAI's GPT-3 to generate the bio, this side project similiar to [this app](https://www.prasetia.me/posts/bio-generator-with-ai/).
+
+You only need enter personal description, select the social media target and the AI will generate a bio for you. The bio will be generated based on the input you provided.
 
 ## what is OpenAI
 

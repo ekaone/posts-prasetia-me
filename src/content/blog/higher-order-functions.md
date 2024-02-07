@@ -60,3 +60,5 @@ console.log(double(5)); // Outputs 10
 ```
 
 Higher-order functions are a powerful concept in functional programming and can lead to more modular, reusable, and expressive code. They allow for the abstraction of common patterns and behaviors, making it easier to write flexible and maintainable code. Examples of higher-order functions in JavaScript include `map`, `filter`, `reduce`, and functions that accept a callback, like `setTimeout` or `addEventListener`.
+
+Thank you for reading this article, I hope you find it useful. Happy coding! 🔥
